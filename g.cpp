@@ -13,13 +13,7 @@ int main() {
    hhh
        kkk
 
-    // loop to check if n is prime
-    for (i = 2; i <= n / 2; ++i) {
-        if (n % i == 0) {
-            is_prime = false;
-            break;
-        }
-    }
+    11111111111111111111111
 
     if (is_prime)
         cout << n << " is a prime number";
