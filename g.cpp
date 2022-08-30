@@ -10,9 +10,8 @@ int main() {
     cin >> n;
 
     // 0 and 1 are not prime numbers
-    if (n == 0 || n == 1) {
-        is_prime = false;
-    }
+   hhh
+       kkk
 
     // loop to check if n is prime
     for (i = 2; i <= n / 2; ++i) {
